@@ -4,3 +4,22 @@
     margin-left: 0%;
     margin-right: 0%;
 }
+
+.jumbotron {
+    padding-top: 0%;
+    padding-bottom: 0%;
+
+}
+
+.carousel{
+    position: relative;
+}
+
+*, ::after, ::before{
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+}
+
